@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- *  main - Entry point
+ * main - Entry point
  *
- *  Return: Alway 0 (Success)
+ * Return: Alway 0 (Success)
  */
 int main(void)
 {
@@ -19,3 +19,4 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
+
