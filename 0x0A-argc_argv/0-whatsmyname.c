@@ -7,7 +7,7 @@
  * @argv: array
  * Return: 0
  */
-int main(int argc _ _attribute_ _((unused)), char *argv[])
+int main(int argc __attribute__((unused)), char *argv[])
 {
 	print("%s\n", argv[0]);
 
